@@ -71,4 +71,4 @@ Verifique se tudo está funcionando corretamente acessando a seguinte URL no nav
 - ![Loja](https://github.com/marianadevti/Projeto_PIT_2/blob/main/documentos/loja.jpg?raw=true)
 
 - - **Painel de Admin:**
-- ![Painel de Admin](./Documentos/admin.jpg)
+- ![Painel de Admin](https://github.com/marianadevti/Projeto_PIT_2/blob/main/documentos/admin.jpg?raw=true)
